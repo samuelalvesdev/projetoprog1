@@ -1,0 +1,342 @@
+{
+    "questoes": [
+    {
+
+        "id":1,
+        "dificuldade":"médio",
+        "pontuacao":"20",
+        "pergunta":"Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+        "alt1": "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+        "alt2": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+        "alt3": "Tem 10 litros. São retirados 2 litros",
+        "alt4": "Tem 7 litros. São retirados 1,5 litros",
+        "alt5": "Tem 0,5 litros. São retirados 0,5 litros",
+        "altcert": "alt2"
+
+    },
+    {
+
+        "id":2,
+        "dificuldade":"médio",
+        "pontuacao":"20",
+        "pergunta":"De quem é a famosa frase “Penso, logo existo”?",
+        "alt1": "Platão",
+        "alt2": "Galileu Galilei",
+        "alt3": "Descartes",
+        "alt4": "Sócrates",
+        "alt5": "Francis Bacon",
+        "altcert": "alt3"
+
+    },
+    {
+        "id":3,
+        "dificuldade":"fácil",
+        "pontuacao":"10",
+        "pergunta":"Quantos olhos a maior parte das aranhas têm?",
+        "alt1": "Dois",
+        "alt2": "Quatro",
+        "alt3": "Quatro pares",
+        "alt4": "Seis",
+        "alt5": "Um",
+        "altcert": "alt3"
+
+    },
+    {
+        "id":4,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":"Qual das alternativas contém apenas nomes de rios?",
+        "alt1" :"São Francisco, Douro, Antártico",
+        "alt2" :"Nilo, Amazonas, Mississipi",
+        "alt3" :"Cáspio, Vermelho, Reno",
+        "alt4" :"Tocantins, Bering, Ganges",
+        "alt5" :"Danúbio, Jordão, Morto",
+        "altcert": "alt2"
+
+    },
+    {
+        "id":27,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Qual a ciência que estuda a atmosfera da Terra e a climatologia?",
+        "alt1" :"Astronomia",
+        "alt2" :"Metereologia",
+        "alt3" :"Dispersão atmosférica",
+        "alt4" :"Cometologia",
+        "alt5" :"Horologia",
+        "altcert": "alt2"
+    },
+    {
+        "id":5,
+        "dificuldade":"facil",
+        "pontuacao":"10",
+        "pergunta":"Quantos braços tem um polvo?",
+        "alt1" :"4",
+        "alt2" :"6",
+        "alt3" :"9",
+        "alt4" :"8",
+        "alt5" :"6",
+        "altcert": "alt4"
+    },
+    {
+        "id":6,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":"Indique quais as respectivas invenções dos inventores Alexander Graham Bell e Galileu Galilei.",
+        "alt1" :"Lâmpada e avião",
+        "alt2" :"Internet e televisão",
+        "alt3" :"Futebol e celular",
+        "alt4" :"Telefone e termômetro",
+        "alt5" :"Relógio e giroscópio",
+        "altcert": "alt4"
+        
+    },
+    {
+        "id":7,
+        "dificuldade":"facil",
+        "pontuacao":"10",
+        "pergunta":"Nesses pares, ambos são mamíferos:",
+        "alt1" :"Baleia azul e golfinhos",
+        "alt2" :"Morcegos e galinhas",
+        "alt3" :"Girafas e tartarugas",
+        "alt4" :"Porcos e pinguins",
+        "alt5" :"Macacos e sapos",
+        "altcert": "alt1"
+    },
+    {
+        "id":8,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Quanto tempo o vidro demora para se decompor?",
+        "alt1" :"600",
+        "alt2" :"500",
+        "alt3" :"400",
+        "alt4" :"320",
+        "alt5" :"tempo indeterminado",
+        "altcert": "alt5"
+        
+    },
+    {
+        "id":9,
+        "dificuldade":"facil",
+        "pontuacao":"10",
+        "pergunta":"De que são constituídos os diamantes?",
+        "alt1" :"Carbono",
+        "alt2" :"Rênio",
+        "alt3" :"Ósnio",
+        "alt4" :"Bóhrio",
+        "alt5" :"Grafite",
+        "altcert": "alt1"
+    },
+    {
+        "id":10,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":"Em que ordem aparecem as cores do arco-íris sempre?",
+        "alt1" :"Amarelo, laranja, vermelho, azul, anil (ou índigo), verde e violeta",
+        "alt2" :"Amarelo, violeta, laranja, verde, vermelho, anil (ou índigo) e azul",
+        "alt3" :"Vermelho, laranja, violeta, anil (ou índigo), azul, verde e amarelo",
+        "alt4" :"Vermelho, laranja, amarelo, branco, verde, azul e violeta",
+        "alt5" :"Vermelho, laranja, amarelo, verde, azul, anil (ou índigo) e violeta",
+        "altcert": "alt5"
+        
+    },
+    {
+        "id":11,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":" A quem foi atribuído pela primeira vez o Prêmio Nobel da Paz?",
+        "alt1" :"Frédéric Passy",
+        "alt2" :"Martin Luther King Jr.",
+        "alt3" :"Frédéric Passy e Henry Dunant",
+        "alt4" :"Henri Becquerel e Marie Curie",
+        "alt5" :"Madre Teresa de Calcutá",
+        "altcert": "alt3"
+    },
+    {
+        "id":12,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":"O que é um Papiloscopista",
+        "alt1" :"Especialista em cópias",
+        "alt2" :"Profissional especializado em identificação humana",
+        "alt3" :"Indivíduo responsável por crianças órfãs",
+        "alt4" :"Pessoa que tem uma pequena saliência cônica na língua",
+        "alt5" :"Indivíduo que se dedica ao estudo de papiros",
+        "altcert": "alt2"
+    },
+    {
+        "id":13,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":"O que é um Papiloscopista",
+        "alt1" :"Especialista em cópias",
+        "alt2" :"Profissional especializado em identificação humana",
+        "alt3" :"Indivíduo responsável por crianças órfãs",
+        "alt4" :"Pessoa que tem uma pequena saliência cônica na língua",
+        "alt5" :"Indivíduo que se dedica ao estudo de papiros",
+        "altcert": "alt2"
+    },
+    {
+        "id":14,
+        "dificuldade":"facil",
+        "pontuacao":"10",
+        "pergunta":"Qual é respectivamente o animal terrestre mais lento e o mais veloz?",
+        "alt1" :"Bicho-preguiça e guepardo",
+        "alt2" :"Tartaruga e leão",
+        "alt3" :"Coala e cavalo",
+        "alt4" :"Caracol e tubarão",
+        "alt5" :"Bicho-preguiça e libélula",
+        "altcert": "alt1"
+        
+    },
+    {
+        "id":15,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Método de seleção em que predomina o mérito. Essa é a definição de qual conceito da Sociologia?",
+        "alt1" :"Aristocracia",
+        "alt2" :"Fidalguia",
+        "alt3" :"Tirania",
+        "alt4" :"Meritocracia",
+        "alt5" :"Romaria",
+        "altcert": "alt4"
+    },
+    {
+        "id":16,
+        "dificuldade":"facil",
+        "pontuacao":"10",
+        "pergunta":"Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+        "alt1" :"Dilma",
+        "alt2" :"Jair Bolsonaro",
+        "alt3" :"João Goulart",
+        "alt4" :"Jânio Quadros",
+        "alt5" :"Getúlio Vargas",
+        "altcert": "alt3"
+    },
+    {
+        "id":17,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Qual o livro mais vendido no mundo a seguir à Bíblia?",
+        "alt1" :"Senhor dos Anéis",
+        "alt2" :"Dom Quixote",
+        "alt3" :"Harry Potter, o Enigma do Príncipe",
+        "alt4" :"Alice no País das maravilhas",
+        "alt5" :"Dom Casmurro",
+        "altcert": "alt2"
+        
+    },
+    {
+        "id":18,
+        "dificuldade":"facil",
+        "pontuacao":"10",
+        "pergunta":"Quantas casas decimais tem o número pi?",
+        "alt1" :"Duas",
+        "alt2" :"Quinze",
+        "alt3" :"Infinitas",
+        "alt4" :"Mil e cem",
+        "alt5" :"Vinte e oito",
+        "altcert": "alt3"
+    },
+    {
+        "id":19,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":"Quais são os nove primeiros digitos de pi?",
+        "alt1" :"3,14159265",
+        "alt2" :"3,15148545",
+        "alt3" :"3,58456984",
+        "alt4" :"3,14256585",
+        "alt5" :"3,25658745",
+        "altcert": "alt1"
+    },
+    {
+        "id":20,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Atualmente, quantos elementos químicos a tabela periódica possui?",
+        "alt1" :"118",
+        "alt2" :"113",
+        "alt3" :"109",
+        "alt4" :"127",
+        "alt5" :"105",
+        "altcert": "alt1"
+    },
+    {
+        "id":21,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+        "alt1" :"Brasil e Senegal",
+        "alt2" :"EUA e Rússia",
+        "alt3" :"Japão e Serra Leoa",
+        "alt4" :"Nigéria e Angola",
+        "alt5" :"Ítália e China",
+        "altcert": "alt3"
+
+    },
+    {
+        "id":22,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+        "alt1" :"Brasil e Senegal",
+        "alt2" :"EUA e Rússia",
+        "alt3" :"Japão e Serra Leoa",
+        "alt4" :"Nigéria e Angola",
+        "alt5" :"Ítália e China",
+        "altcert": "alt3"
+    },
+    {
+        "id":23,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Qual desses autores brasileiros escreveu O Guarani e O Gaúcho?",
+        "alt1" :"José de Alencar",
+        "alt2" :"Chico Buarque",
+        "alt3" :"Ariano Suassuna",
+        "alt4" :"José de Anchieta",
+        "alt5" :"Aluísio de Azevedo",
+        "altcert": "alt1"
+    },
+    {
+        "id":24,
+        "dificuldade":"medio",
+        "pontuacao":"20",
+        "pergunta":"Quanto tempo a luz do Sol demora para chegar à Terra?",
+        "alt1" :"6minutos e 30segundos",
+        "alt2" :"7minutos e 25segundos",
+        "alt3" :"8minutos",
+        "alt4" :"9minutos",
+        "alt5" :"9minutos e 30 segundos",
+        "altcert": "alt3"
+    },
+    {
+        "id":25,
+        "dificuldade":"facil",
+        "pontuacao":"10",
+        "pergunta":"Qual subconjunto da matemática que estuda triângulos retângulos?",
+        "alt1" :"Relações Triangulares",
+        "alt2" :"Teorema de Pitágoras",
+        "alt3" :"Teorema Triangular",
+        "alt4" :"Razões Trigonométricas",
+        "alt5" :"Razões Polinomiais",
+        "altcert": "alt4"
+    },
+    {
+        "id":26,
+        "dificuldade":"dificil",
+        "pontuacao":"30",
+        "pergunta":"Quem foi a primeira pessoa a calcular o raio da terra",
+        "alt1" :"Aristóteles",
+        "alt2" :"Pitágoras",
+        "alt3" :"Leonardo Da Vinci",
+        "alt4" :"Galileu Galilei",
+        "alt5" :"Eratóstenes de Cirene",
+        "altcert": "alt5"
+    }
+
+    ]
+    
+}
